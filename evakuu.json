@@ -1347,6 +1347,14 @@
     "category": "artist"
   },
   {
+    "searchtag": "remilia_scarlet",
+    "repository": "danbooru",
+    "category": "character",
+    "misc": [
+      "touhou"
+    ]
+  },
+  {
     "searchtag": "rennkuu",
     "repository": "danbooru",
     "category": "artist"
