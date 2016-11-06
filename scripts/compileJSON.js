@@ -79,7 +79,7 @@ for (let row = 1; row < boundMax.row; ++row) {
 }
 
 // Write the JSON data to file
-fs.writeFileSync(dest, JSON.stringify(json, null, 2) + '/n');
+fs.writeFileSync(dest, JSON.stringify(json, null, 2) + '\n');
 
 console.log('Successfully created JSON file!')
 console.log(dest);

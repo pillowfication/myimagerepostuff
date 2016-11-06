@@ -1,8 +1,5 @@
 [
   {
-    "searchtag": "%searchtag%\\%rating% - %id% - %artist% - %copyright% - %character"
-  },
-  {
     "searchtag": "2-g",
     "repository": "danbooru",
     "category": "artist"
@@ -1834,11 +1831,6 @@
   },
   {
     "searchtag": "zekkyon",
-    "repository": "danbooru",
-    "category": "artist"
-  },
-  {
-    "searchtag": "zheyi_parker",
     "repository": "danbooru",
     "category": "artist"
   }
