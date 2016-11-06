@@ -1,0 +1,1845 @@
+[
+  {
+    "searchtag": "%searchtag%\\%rating% - %id% - %artist% - %copyright% - %character"
+  },
+  {
+    "searchtag": "2-g",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "a_(nanananaaannaa)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "a9b_(louis814)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "abe_kanari",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "absolute_duo",
+    "repository": "danbooru",
+    "category": "copyright"
+  },
+  {
+    "searchtag": "ai_(himura_kiseki)",
+    "repository": "danbooru",
+    "category": "character",
+    "misc": [
+      "himura_kiseki"
+    ]
+  },
+  {
+    "searchtag": "akagi_asahito",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "akanagi",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "akatsuki_hijiri",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "akeyama_kitsune",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "aki99",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "akinashi_yuu",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "akine_(kuroyuri)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "akitsuchi_shien",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "alber",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "alt_(apou)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "amano_kouki",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "amashiro_natsuki",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "ama-tou",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "ameyame",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "angelos_armas",
+    "repository": "danbooru",
+    "category": "copyright",
+    "misc": [
+      "nitroplus"
+    ]
+  },
+  {
+    "searchtag": "ao_no_kanata_no_four_rhythm",
+    "repository": "danbooru",
+    "category": "copyright"
+  },
+  {
+    "searchtag": "aoi_kumiko",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "aoten",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "arcueid_brunestud",
+    "repository": "danbooru",
+    "category": "character",
+    "misc": [
+      "tsukihime"
+    ]
+  },
+  {
+    "searchtag": "ashermes",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "azuki_(krps-hano)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "b3b",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "bai_yemeng",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "bei_mochi",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "blowblack_(kke)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "body_mahattaya_ginga",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "bomi",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "boruhis",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "cait",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "cangkong",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "ccaw",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "cenangam",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "chance_maker",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "charlotte",
+    "repository": "danbooru",
+    "category": "copyright"
+  },
+  {
+    "searchtag": "chimunge",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "chita_(ketchup)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "chitori",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "chokoan_(tyokoa4649)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "chun_(friendly_sky)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "chuuou_higashiguchi",
+    "repository": "danbooru",
+    "category": "artist",
+    "misc": [
+      "saya_no_uta"
+    ]
+  },
+  {
+    "searchtag": "clare_(543)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "clere",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "cocoa_(cafe-hotcocoa)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "coffee-kizoku",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "combat_s-ko",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "cruccu",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "cygnus_(cygnus7)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "cz2128_delta",
+    "repository": "danbooru",
+    "category": "character",
+    "misc": [
+      "overlord_(maruyama)"
+    ]
+  },
+  {
+    "searchtag": "daiaru",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "daimaou_ruaeru",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "dance_of_eternity",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "dansearl",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "dd_(ijigendd)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "ddal",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "dk.senie",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "dmm",
+    "repository": "danbooru",
+    "category": "copyright"
+  },
+  {
+    "searchtag": "dyson_(edaokunnsaikouya)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "efe",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "eiwa",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "emily_(pure_dream)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "eretto",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "erubo",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "fi-san",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "fujimori_tonkatsu",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "furukawa_wanosuke",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "fuuna",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "fuyu_yasai",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "gedou_(shigure_seishin)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "geister",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "getsuyoubi_no_tawawa",
+    "repository": "danbooru",
+    "category": "copyright"
+  },
+  {
+    "searchtag": "gochuumon_wa_usagi_desu_ka?",
+    "repository": "danbooru",
+    "category": "copyright"
+  },
+  {
+    "searchtag": "goto_p",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "graf_zeppelin_(kantai_collection)",
+    "repository": "danbooru",
+    "category": "character"
+  },
+  {
+    "searchtag": "h_kasei",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "haekwon1023",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "haguda_tofu_(hakudatofu)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "hakusai_ponzu",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "halto_(citrus)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "hamayumiba_sou",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "happoubi_jin",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "haru_blanc0316",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "hasumi_(hasubatake39)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "hayakawa_harui",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "hayashi_kewi",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "hazuki_mahiro",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "hellween",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "hentai_ouji_to_warawanai_neko.",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "hews_hack",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "hibike!_euphonium",
+    "repository": "danbooru",
+    "category": "copyright"
+  },
+  {
+    "searchtag": "hiki-wota",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "hiro_(hirohiro31)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "hisama_kumako",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "hitotsuki_nanoka",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "hizakozouzu",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "homarerererere",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "homewrecker",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "homua",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "homura_k",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "hoshi_(snacherubi)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "hoshihuri",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "houtengeki",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "hoyashi_rebirth",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "i.f.s.f",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "ichiyan",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "ihara_asta",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "ikedan",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "ikegami_akane",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "inaba_sunimi",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "inanaki_shiki",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "inomata_mutsumi",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "inoue_makito",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "inugami_kira",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "ishikei",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "itamochi",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "itamochi",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "janong",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "k.y_ko",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kadorado",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kaisen_chuui",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kamachi_kamachi-ko",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kamimiya",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kamisa",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kanekiyo_miwa",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kawai_(purplrpouni)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kazakami_yuu",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kazawa_(tonzura-d)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "keenh",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kei_(k_tmr)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kelang",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kentaurosu",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kentaurosu",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "ke-ta",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kida_kuro_mu",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kiira",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kimishima_ao",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kinnan",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kinnotama_(erokosei)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kino_(kino_konomi)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kintarou_(kintarou's_room)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kisaragiyuu",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kishida_mel",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kobuichi",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kochiya_(gothope)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "koizumi_amane",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kokonoka",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "komone_ushio",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "konno_kengo",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kurifuto",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kuro_(be_ok)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kuroki_hiromi",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kurot",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kyoo-kyon_(kyo-kyon)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kyougoku_touya",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "kyuri_(405966795)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "lasterk",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "lewisia_2",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "lf",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "limobok",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "lpip",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "madogawa",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "mahousho",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "maki_(natoriumu)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "mamuru",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "marin_(myuy_3)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "mary_(14476764)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "matatabi_maru",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "matsuda_(matsukichi)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "matsuryuu",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "meaomao",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "meth_(emethmeth)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "mia_(gute-nacht-07)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "mikagemaru_(mikage000)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "mikazuki_akira!",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "minamura_haruki",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "minono_aki",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "misaka_(05)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "misakamitoko0903",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "misaki_kurehito",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "misako12003",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "mishima_kurone",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "miu_(pixiv4149478)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "miwabe_sakura",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "miyasaka_miyu",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "miyazaki_byou",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "miyuki_rei",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "mizunashi_(second_run)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "moekyon",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "moemoe3345",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "momoko_(momopoco)",
+    "repository": "sankakucomplex",
+    "category": "artist"
+  },
+  {
+    "searchtag": "moneti_(daifuku)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "monkey_buonarroti",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "morisaki_kurumi",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "murakami_suigun",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "musen-shiki_sanhankikan",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "mushi_gyouza",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "mutsutake",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "muvluv",
+    "repository": "danbooru",
+    "category": "copyright"
+  },
+  {
+    "searchtag": "mvv",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "myusha",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "myuton",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "myuu_(arisumeria)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "nagare",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "naka",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "nanahime_(aoi)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "nanase_meruchi",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "nanase_nao",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "nanotaro",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "naomi_(sekai_no_hate_no_kissaten)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "natsukimonou",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "nazu-na",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "nebu_soku",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "nebu_soku",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "nekoume",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "nemunemu_(candy_paddle)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "niji_(rudduf232)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "nike_(0306)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "nikoo",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "niliu_chahui",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "ninoko",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "nironiro",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "nogi_takayoshi",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "no-kan",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "nonono_(mino)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "nori_tamago",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "nyamota_(noraneko_koubou)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "obiwan",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "oekaki_musume",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "ogami_kazuki",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "okakan",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "okingjo",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "okino_ryuuto",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "ominaeshi_(takenoko)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "oogami_yuuki",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "ookuma_(nitroplus)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "oouso_(usotsukiya)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "ore_no_nounai_sentakushi_ga_gakuen_love-comedy_wo_senryoku_de_jama_shiteru",
+    "repository": "danbooru",
+    "category": "copyright"
+  },
+  {
+    "searchtag": "otokuyou",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "otome_domain",
+    "repository": "danbooru",
+    "category": "copyright"
+  },
+  {
+    "searchtag": "otono_fei",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "ouma_tokiichi",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "overlord_(maruyama)",
+    "repository": "danbooru",
+    "category": "copyright"
+  },
+  {
+    "searchtag": "p!nta",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "pakupaku_choppu",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "pan_(mimi)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "pdxen",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "peko",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "pepper_fever",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "piroshiky",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "piyodera_mucha",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "pokachu",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "pokio",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "pool:10374",
+    "repository": "danbooru",
+    "category": "pool",
+    "misc": [
+      "Pool: Original - Monday Morning Offerings (Himura Kiseki)",
+      "himura_kiseki"
+    ]
+  },
+  {
+    "searchtag": "pool:544",
+    "repository": "danbooru",
+    "category": "pool",
+    "misc": [
+      "Pool: Making Love"
+    ]
+  },
+  {
+    "searchtag": "primamiya",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "puti_devil",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "pyon-kichi",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "rabbit_(tukenitian)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "ragho_no_erika",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "raika9",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "rennkuu",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "repi987",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "ricegnat",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "rider_of_black",
+    "repository": "danbooru",
+    "category": "character",
+    "misc": [
+      "fate (series)",
+      "fate/apocrypha"
+    ]
+  },
+  {
+    "searchtag": "rinchu",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "ringonotane",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "roura",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "rudia",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "ryo",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "ryosios",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "saburou_(hgmg)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "saitou_masatsugu",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "sakipsakip",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "sakura_trick",
+    "repository": "danbooru",
+    "category": "copyright"
+  },
+  {
+    "searchtag": "sakuragi_yuzuki",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "sakurame",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "sakuya_tsuitachi",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "sakuyosi",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "saltyicecream",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "santa_matsuri",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "saraki",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "saru",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "satsuki_mayuri",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "saya_no_uta",
+    "repository": "danbooru",
+    "category": "copyright"
+  },
+  {
+    "searchtag": "sayika",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "sayo_tanku",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "sayori",
+    "repository": "danbooru",
+    "category": "artist",
+    "misc": [
+      "nekopara"
+    ]
+  },
+  {
+    "searchtag": "second_heaven",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "sena_chifuyu",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "seramikku",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "shian_(my_lonly_life.)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "shimotsuki_eight",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "shiokonbu",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "shiroshi_(denpa_eshidan)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "shokuyou_mogura",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "shuffle!",
+    "repository": "danbooru",
+    "category": "copyright"
+  },
+  {
+    "searchtag": "simosi",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "sin-poi",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "sirills",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "solru",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "souryu",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "sub-res",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "sugimeno",
+    "repository": "danbooru",
+    "category": "artist",
+    "misc": [
+      "dmm"
+    ]
+  },
+  {
+    "searchtag": "sukage",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "sukemyon",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "sushimaro",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "suzuharu_(suzuharu0612)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "suzuhira_hiro",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "suzumi_shiro",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "swd3e2",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "swordsouls",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "tachikawa_mushimaro",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "takanashi_haruto",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "tanuma_(tyny)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "tatsuno",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "tatsuya_ishikawa",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "tengxiang_lingnai",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "tenryou_sena",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "teruru",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "testame",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "tetsu_(countryside)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "tetsu_tissue",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "tilt-shift",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "tokinohimitsu",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "tomose_shunsaku",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "tooru_(pixiv12953962)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "tsuji_santa",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "tsukasa_yuuki",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "tsukigami_runa",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "tsukimi_(xiaohuasan)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "tsunako",
+    "repository": "danbooru",
+    "category": "artist",
+    "misc": [
+      "choujigen_game_neptune "
+    ]
+  },
+  {
+    "searchtag": "tsunekun",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "twiska_(doubitian)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "uchigohan",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "uehara_yukihiko",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "utsurogi_akira",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "uyu_(keyakinoki)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "wa_(genryusui)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "walzrj",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "wasabi_(sekai)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "xuanlin_jingshuang",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "yabuki_kentarou",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "yagami_shuuichi",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "yahari_ore_no_seishun_lovecome_wa_machigatteiru.",
+    "repository": "danbooru",
+    "category": "copyright"
+  },
+  {
+    "searchtag": "yamakaze_ran",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "yaoya_musuko",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "yellowpaint.",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "yhes70903",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "yomogi_(becr)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "yucca-612",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "yumesato_makura",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "yu-ta",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "yuuki_hagure",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "yuyuzuki_(yume_usagi)",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "zekkyon",
+    "repository": "danbooru",
+    "category": "artist"
+  },
+  {
+    "searchtag": "zheyi_parker",
+    "repository": "danbooru",
+    "category": "artist"
+  }
+]
