@@ -1,0 +1,11 @@
+{
+  "name": "evakuu",
+  "version": "0.0.0",
+  "main": "evakuu.json",
+  "scripts": {
+    "compileJSON": "node scripts/compileJSON.js"
+  },
+  "devDependencies": {
+    "xlsx": "^0.8.0"
+  }
+}
