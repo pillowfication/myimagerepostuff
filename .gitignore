@@ -1,2 +1,4 @@
 /node_modules
 *.log
+website/build.js
+website/bootstrap.css

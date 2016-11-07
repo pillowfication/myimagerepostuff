@@ -16,3 +16,10 @@ Please have Node and npm installed on your machine.
 1. Navigate to the repository folder (`cd myimagerepostuff`)
 2. Install necessary dependencies with `npm install`. (You only need to do this step once).
 3. Run the compile script with `npm run compileJSON`.
+
+## Build the website
+
+1. Install dependencies with `npm install`.
+2. Run setup with `npm run setup`.
+3. Startup the Express server with `npm run server`.
+4. View the app at `localhost:3000`

@@ -3,9 +3,23 @@
   "version": "0.0.0",
   "main": "evakuu.json",
   "scripts": {
-    "compileJSON": "node scripts/compileJSON.js"
+    "compileJSON": "node scripts/compileJSON.js",
+    "server": "node website/server.js",
+    "setup": "node scripts/setup.js && browserify website/index.jsx -v -t [ babelify --presets [ es2015 react ] ] -o website/build.js",
+    "watchify": "watchify website/index.jsx -v -t [ babelify --presets [ es2015 react ] ] -o website/build.js"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.14.0",
+    "react": "^15.3.2",
+    "react-bootstrap": "^0.30.6",
+    "react-dom": "^15.3.2"
   },
   "devDependencies": {
+    "babel-preset-react": "^6.16.0",
+    "babelify": "^7.3.0",
+    "browserify": "^13.1.1",
+    "watchify": "^3.7.0",
     "xlsx": "^0.8.0"
   }
 }
