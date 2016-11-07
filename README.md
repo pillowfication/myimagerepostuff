@@ -17,6 +17,10 @@ Please have Node and npm installed on your machine.
 2. Install necessary dependencies with `npm install`. (You only need to do this step once).
 3. Run the compile script with `npm run compileJSON`.
 
+You can also add this compile stage as a `pre-commit` hook.
+
+1. `ln -s -f ../../hooks/post-merge .git/hooks/post-merge`
+
 ## Build the website
 
 1. Install dependencies with `npm install`.
