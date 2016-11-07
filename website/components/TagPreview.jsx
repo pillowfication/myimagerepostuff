@@ -2,7 +2,7 @@ const React = require('react');
 const request = require('request');
 const cheerio = require('cheerio');
 
-const HEIGHT = '150px';
+const ImageView = require('./ImageView.jsx');
 
 const TagPreview = React.createClass({
   propTypes: {
@@ -28,7 +28,6 @@ const TagPreview = React.createClass({
 
         const html = cheerio.load(body);
         const images = html('#posts article img');
-        console.log(images)
         this.setState({
           loading: false,
           images: images
@@ -38,21 +37,18 @@ const TagPreview = React.createClass({
   },
   render() {
     if (this.state.loading) {
-      return <div style={{height: HEIGHT}}>loading...</div>;
+      return <div>loading...</div>;
     }
     if (this.state.error) {
-      return <div style={{height: HEIGHT}}>Some Error</div>;
+      return <div>Some Error</div>;
     }
 
     return (
-      <div style={{height: HEIGHT}}>
+      <div>
         {(() => {
           const array = [];
-          for (let i = 0; i < this.state.images.length && i < 5; ++i) {
-            array.push(
-              <img src={'https://danbooru.donmai.us' + this.state.images[i].attribs.src}/>
-            );
-          }
+          for (let i = 0; i < this.state.images.length; ++i)
+            array.push(<ImageView key={i} image={this.state.images[i]}/>);
           return array;
         })()}
       </div>
