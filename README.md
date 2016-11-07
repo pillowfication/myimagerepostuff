@@ -19,7 +19,8 @@ Please have Node and npm installed on your machine.
 
 You can also add this compile stage as a `pre-commit` hook.
 
-1. `ln -s -f ../../hooks/post-merge .git/hooks/post-merge`
+1. Symlink the hook with `ln -s -f ../../hooks/pre-commit .git/hooks/pre-commit`.
+2. (Optional) Enable permission to run the script with `chmod +x .git/hooks/pre-commit`.
 
 ## Build the website
 
