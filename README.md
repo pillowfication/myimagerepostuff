@@ -26,5 +26,5 @@ You can also add this compile stage as a `pre-commit` hook.
 
 1. Install dependencies with `npm install`.
 2. Run setup with `npm run setup`.
-3. Startup the Express server with `npm run server`.
+3. Startup the Express server with `npm run server 3000`.
 4. View the app at `localhost:3000`
