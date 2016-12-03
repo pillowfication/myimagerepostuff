@@ -6,26 +6,38 @@ const TagPreview = require('./TagPreview.jsx');
 const Table = ReactBootstrap.Table;
 const Button = ReactBootstrap.Button;
 
+function createTagAnchor(site, searchtag) {
+  switch (site) {
+    case 'danbooru':
+      return <a target="_blank" href={`https://danbooru.donmai.us/posts?tags=${searchtag}`}>{searchtag}</a>;
+    case 'pixiv':
+      return <a target="_blank" href={`http://www.pixiv.net/member.php?id=${searchtag}`}>{searchtag}</a>;
+    case 'sankakucomplex':
+      return <a target="_blank" href={`https://chan.sankakucomplex.com/post/index?tags=${searchtag}`}>{searchtag}</a>;
+    default:
+      return searchtag;
+  }
+}
+
 const TagTable = React.createClass({
   getInitialState() {
     return {
       showPreview: {}
     };
   },
+
   togglePreview(index) {
     this.state.showPreview[index] = !this.state.showPreview[index];
     this.setState(this.state);
   },
   mapRow(row, index) {
-    const searchtag = row.repository === 'danbooru' ?
-      <a href={`https://danbooru.donmai.us/posts?tags=${row.searchtag}`}>{row.searchtag}</a> :
-      row.searchtag;
-    const repository = row.repository;
-    const category = row.category;
+    const searchtag = row.searchtag;
+    const repository = row.repository || '<<No Repository>>';
+    const category = row.category || '<<No Category>>';
     const misc = row.misc && row.misc.join(', ');
     return [
       <tr key={`${index}-info`}>
-        <td>{searchtag}</td>
+        <td>{createTagAnchor(repository, searchtag)}</td>
         <td>{repository}</td>
         <td>{category}</td>
         <td>{misc}</td>
@@ -37,11 +49,12 @@ const TagTable = React.createClass({
       </tr>,
       this.state.showPreview[index] && <tr key={`${index}-preview`}>
         <td colSpan="5">
-          <TagPreview tag={row.searchtag}/>
+          <TagPreview site={repository} tag={row.searchtag}/>
         </td>
       </tr>
     ];
   },
+
   render() {
     return (
       <Table condensed>

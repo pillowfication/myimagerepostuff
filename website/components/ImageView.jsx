@@ -2,10 +2,29 @@ const React = require('react');
 const request = require('request');
 const cheerio = require('cheerio');
 
+function createImageThumb(site, image) {
+  switch (site) {
+    case 'danbooru':
+      return (
+        <a href={`https://danbooru.donmai.us${image.parent.attribs.href}`}>
+          <img src={'https://danbooru.donmai.us' + image.attribs.src}/>
+        </a>
+      );
+    case 'pixiv':
+      return (
+        <a href={`http://www.pixiv.net${image.parent.attribs.href}`}>
+          <img src={image.attribs.src}/>
+        </a>
+      );
+  }
+}
+
 const ImageView = React.createClass({
   propTypes: {
+    site: React.PropTypes.string.isRequired,
     image: React.PropTypes.object.isRequired
   },
+
   getInitialState() {
     return {
       viewing: false,
@@ -14,6 +33,7 @@ const ImageView = React.createClass({
       imageUrl: undefined
     };
   },
+
   toggleView() {
     if (this.state.viewing) {
       this.setState({viewing: false});
@@ -46,15 +66,11 @@ const ImageView = React.createClass({
       });
     }
   },
+
   render() {
     return (
       <div style={{display: 'inline-block', padding: '4px'}}>
-        <a href={`https://danbooru.donmai.us${this.props.image.parent.attribs.href}`}>
-          <img
-            src={'https://danbooru.donmai.us' + this.props.image.attribs.src}
-            style={{cursor: 'pointer'}}
-          />
-        </a>
+        {createImageThumb(this.props.site, this.props.image)}
         {false && this.state.viewing && (() => {
           // 403 Forbidden
           let image;

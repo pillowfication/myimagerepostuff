@@ -12,6 +12,9 @@ app.get('/build.js', (req, res) => {
 app.get('/bootstrap.css', (req, res) => {
   res.sendFile(path.join(__dirname, 'bootstrap.css'));
 });
+app.get('/style.css', (req, res) => {
+  res.sendFile(path.join(__dirname, 'style.css'));
+});
 
 module.exports = app;
 
