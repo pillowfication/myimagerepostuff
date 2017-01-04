@@ -1,4 +1,6 @@
 /node_modules
 *.log
-website/build.js
-website/bootstrap.css
+
+website/bundle.js
+website/bundle.js.map
+bot/config.json

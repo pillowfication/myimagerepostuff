@@ -1,15 +1,7 @@
-const React = require('react');
+import React from 'react';
 
-const TagTable = require('./TagTable.jsx');
-
-const App = React.createClass({
+export default class App extends React.Component {
   render() {
-    return (
-      <div style={{width: '100%', maxWidth: '100%'}}>
-        <TagTable/>
-      </div>
-    );
+    return <p>Hello World!</p>;
   }
-});
-
-module.exports = App;
+}

@@ -1,30 +1,33 @@
-const fs = require('fs');
 const path = require('path');
+const prompt = require('prompt');
+const jsonfile = require('jsonfile');
 
-// Copy bootstrap.css into project directory
-// Copy the CSS thing
-((cb) => {
-  console.log('Copying `bootstrap.min.css`...');
-  let cbCalled = false;
-  const rd = fs.createReadStream(path.join(__dirname, '..', '/node_modules/bootstrap/dist/css/bootstrap.min.css'));
-  const wr = fs.createWriteStream(path.join(__dirname, '..', '/website/bootstrap.css'));
+const FILE_LOCATION = path.join(__dirname, '../bot/config.json');
 
-  rd.on('error', (err) => { done(err); });
-  wr.on('error', (err) => { done(err); });
-  wr.on('close', (ex) => { done(); });
-  rd.pipe(wr);
+let currSettings;
+try {
+  currSettings = jsonfile.readFileSync(FILE_LOCATION);
+} catch (err) {
+  currSettings = {};
+}
 
-  function done(err) {
-    if (!cbCalled) {
-      cb(err);
-      cbCalled = true;
-    }
-  }
-})((err) => {
-  if (err) {
-    console.log(err);
-    throw new Error('Error occurred when copying `bootstrap.min.css`');
-  } else {
-    console.log('Copying successful!');
+const schema = [{
+  name: 'discordToken',
+  description: 'Discord Bot Token',
+  default: currSettings.discordToken
+}];
+
+prompt.start();
+
+prompt.get(schema, (error, result) => {
+  try {
+    jsonfile.writeFileSync(FILE_LOCATION, result, {spaces: 2});
+    console.log();
+    console.log('Config file created!');
+    console.log(FILE_LOCATION);
+    console.log();
+  } catch (error) {
+    console.log(`Error creating '${FILE_LOCATION}'. Please try again.`);
+    console.log(error);
   }
 });
