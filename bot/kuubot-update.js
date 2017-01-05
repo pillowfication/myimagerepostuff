@@ -7,7 +7,7 @@ const getJSON = require('../utils/getJSON');
 
 const admins = [
   '144761456645242880', // Pillowfication
-  '179314569594929152', // Eva/Kuu
+  '179314569594929152'  // Eva/Kuu
 ];
 
 module.exports = (message) => {

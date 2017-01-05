@@ -1,0 +1,95 @@
+$OpenSansPath: "~open-sans-fontface/fonts";
+@import "~open-sans-fontface/sass/variables";
+@import "~open-sans-fontface/sass/mixins";
+@import "~open-sans-fontface/sass/Regular";
+
+.heart {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  transform: rotate(-45deg);
+  margin: 5px 10px 0;
+  background-color: #FF0000;
+
+  &::before, &::after {
+    content: "";
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+    background-color: #FF0000;
+  }
+  &::before {
+    top: -8px;
+    left: 0;
+  }
+  &::after {
+    top: 0;
+    left: 8px;
+  }
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  border: 0;
+  font-family: "Open Sans", Arial, sans-serif;
+  font-size: 14px;
+  color: #212121;
+  background-color: #E0E0E0;
+}
+
+#main {
+  margin: 1em;
+}
+
+table {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 100%;
+  border-collapse: separate;
+  border: 1px solid #CDCDCD;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.12), 0 1px 2px 0 rgba(0, 0, 0, 0.24);
+  text-align: center;
+  background-color: #FFFFFF;
+
+  th {
+    padding: 1em .5em;
+    border-bottom: 1px solid #CDCDCD;
+  }
+
+  td {
+    padding: 1em .5em;
+    transition: all 0.3s ease;
+
+    a {
+      display: block;
+      width: 100%;
+    }
+  }
+
+  tbody tr:hover td {
+    background-color: #B3E5FC
+  }
+
+  tr.hide {
+    display: none;
+  }
+}
+
+a[href] {
+  color: blue;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+input[type=text] {
+  box-sizing: border-box;
+  width: 100%;
+  padding: .5em 1em;
+  font-size: 1.2rem;
+  margin-bottom: 1em;
+}
