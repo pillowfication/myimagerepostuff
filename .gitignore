@@ -1,6 +1,7 @@
 /node_modules
 *.log
 
+config.json
 website/bundle.js
 website/bundle.js.map
-bot/config.json
+website/public
