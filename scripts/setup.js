@@ -19,6 +19,14 @@ const schema = [{
   name: 'saucenaoApiKey',
   description: 'SauceNAO API Key',
   default: currSettings.saucenaoApiKey
+}, {
+  name: 'cleverbotApiUser',
+  description: 'Cleverbot API User',
+  default: currSettings.cleverbotApiUser
+}, {
+  name: 'cleverbotApiKey',
+  description: 'Cleverbot API Key',
+  default: currSettings.cleverbotApiKey
 }];
 
 prompt.start();

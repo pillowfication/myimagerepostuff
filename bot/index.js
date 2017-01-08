@@ -3,6 +3,7 @@ const client = new Discord.Client();
 const config = require('../config.json');
 
 const rules = [
+  require('./kuubot'),
   require('./kuubot-update'),
   require('./kuubot-sauce'),
   require('./kuubot-set-game'),
