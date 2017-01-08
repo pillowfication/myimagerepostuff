@@ -5,17 +5,18 @@ const config = require('../config.json');
 const rules = [
   require('./kuubot-update'),
   require('./kuubot-sauce'),
+  require('./kuubot-set-game'),
   require('./kuubot-xlsx')
 ];
 
 client.on('ready', () => {
   console.log('Kuubot is online!');
-  client.user.setStatus('online', 'with lewd stuff');
+  client.user.setGame('with lewd stuff');
 });
 
 client.on('message', (message) => {
   for (const rule of rules)
-    rule(message);
+    rule(message, client);
 });
 
 module.exports = {
