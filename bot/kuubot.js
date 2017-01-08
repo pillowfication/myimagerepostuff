@@ -10,19 +10,18 @@ bot.create((err, session) => {
   }
 });
 
-const mentionString = `<@265952583883948033>`;
+const test = RegExp.prototype.test.bind(/^<@!?265952583883948033>/);
 
 module.exports = function talk(message) {
-  if (message.content.indexOf(mentionString) !== 0)
-    return;
+  if (test(message.content)) {
+    const content = message.content.substring(message.content.indexOf('>')+1).trim();
+    bot.ask(content, (err, res) => {
+      if (err) {
+        console.log('ERROR ASKING CLEVERBOT');
+        console.log(err);
+      }
 
-  const content = message.content.substring(mentionString.length).trim();
-  bot.ask(content, (err, res) => {
-    if (err) {
-      console.log('ERROR ASKING CLEVERBOT');
-      console.log(err);
-    }
-
-    message.channel.sendMessage(res);
-  });
+      message.channel.sendMessage(res);
+    });
+  }
 };
