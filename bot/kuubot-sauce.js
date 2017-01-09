@@ -17,6 +17,7 @@ const indices = [
   {key: 10, name: 'drawr'},
   {key: 11, name: 'nijie'},
   {key: 12, name: 'yandere'},
+  // {key: 15, name: 'shutterstock'},
   {key: 999, name: 'all'}
 ];
 
@@ -119,32 +120,38 @@ function createDescription(result) {
   switch (result.header.index_id) {
     case 5: // pixiv
       return descriptify(
-        linkify('Title', null, result.data.title),
-        linkify('Pixiv ID', 'http://www.pixiv.net/member_illust.php?mode=medium&illust_id=', result.data.pixiv_id),
-        linkify('Member Name', null, result.data.member_name),
-        linkify('Member ID', 'http://www.pixiv.net/member_illust.php?id=', result.data.member_id)
+        ['Title', null, result.data.title],
+        ['Pixiv ID', 'http://www.pixiv.net/member_illust.php?mode=medium&illust_id=', result.data.pixiv_id],
+        ['Member Name', null, result.data.member_name],
+        ['Member ID', 'http://www.pixiv.net/member_illust.php?id=', result.data.member_id]
       );
     case 9: // danbooru
       return descriptify(
-        linkify('Creator', null, result.data.creator),
-        linkify('Source', null, result.data.source),
-        linkify('Danbooru ID', 'https://danbooru.donmai.us/posts/', result.data.danbooru_id),
-        linkify('Sankaku ID', 'https://chan.sankakucomplex.com/post/show/', result.data.sankaku_id)
+        ['Creator', null, result.data.creator],
+        ['Source', null, result.data.source],
+        ['Danbooru ID', 'https://danbooru.donmai.us/posts/', result.data.danbooru_id],
+        ['Gelbooru ID', 'http://www.gelbooru.com/index.php?page=post&s=view&id=', result.data.gelbooru_id],
+        ['Sankaku ID', 'https://chan.sankakucomplex.com/post/show/', result.data.sankaku_id]
+      );
+    case 15: // shutterstock
+      return descriptify(
+        ['Shutterstock ID', 'https://www.shutterstock.com/pic-', result.data.shutterstock_id],
+        ['Contributor ID', 'https://m.shutterstock.com/contributor/', result.data.contributor_id], // Mobile site redirects correctly
+        ['Date', null, result.data.date]
       );
     default:
       return JSON.stringify(result.data, null, 2);
   }
 }
 
-function linkify(name, baseUrl, suffix) {
-  return suffix && `${name}: ${baseUrl ? `[${suffix}](${baseUrl}${suffix})` : `${suffix}`}`;
-}
-
 function descriptify(...lines) {
   let description = '';
-  for (line of lines)
-    if (line)
-      description += line + '\n';
+  for (const line of lines) {
+    const [name, baseUrl, suffix] = line;
+    const display = suffix && `${name}: ${baseUrl ? `[${suffix}](${baseUrl}${suffix})` : `${suffix}`}`;
+    if (display)
+      description += display + '\n';
+  }
   return description;
 }
 
