@@ -1,5 +1,5 @@
 const cleverbot = require('cleverbot.io');
-const config = require('../config.json');
+const config = require('../../config.json');
 
 const bot = new cleverbot(config.cleverbotApiUser, config.cleverbotApiKey);
 bot.setNick('kuubot');

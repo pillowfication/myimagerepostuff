@@ -3,8 +3,8 @@ const path = require('path');
 const async = require('async');
 const request = require('request');
 const XLSX = require('xlsx');
-const getJSON = require('../utils/getJSON');
-const admins = require('./admins');
+const getJSON = require('../../utils/getJSON');
+const admins = require('../admins');
 
 module.exports = (message) => {
   if (message.content === 'kuubot update') {
@@ -35,8 +35,8 @@ module.exports = (message) => {
               try {
                 const json = JSON.stringify(getJSON(XLSX.read(body)), null, 2) + '\n';
                 async.each([
-                  {path: path.join(__dirname, '../evakuu.xlsx'), data: body},
-                  {path: path.join(__dirname, '../evakuu.json'), data: json}
+                  {path: path.join(__dirname, '../../evakuu.xlsx'), data: body},
+                  {path: path.join(__dirname, '../../evakuu.json'), data: json}
                 ], (file, cb) => {
                   fs.writeFile(file.path, file.data, cb);
                 }, (err) => {

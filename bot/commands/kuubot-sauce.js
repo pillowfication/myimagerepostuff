@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const request = require('request');
-const config = require('../config.json');
+const config = require('../../config.json');
 
 const test = RegExp.prototype.test.bind(/^kuubot sauce($|\s)/);
 

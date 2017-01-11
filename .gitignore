@@ -2,6 +2,7 @@
 *.log
 
 config.json
+bot/persist-data.json
 website/bundle.js
 website/bundle.js.map
 website/public
