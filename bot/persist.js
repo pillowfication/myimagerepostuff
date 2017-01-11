@@ -3,7 +3,11 @@ const path = require('path');
 const jsonfile = require('jsonfile');
 
 const filePath = path.join(__dirname, 'persist-data.json');
-const data = jsonfile.readFileSync(filePath);
+
+let data = {};
+try {
+  data = jsonfile.readFileSync(filePath);
+} catch (err) {}
 
 module.exports = {
   set(key, value) {
