@@ -7,7 +7,9 @@ const filePath = path.join(__dirname, 'persist-data.json');
 let data = {};
 try {
   data = jsonfile.readFileSync(filePath);
-} catch (err) {}
+} catch (err) {
+  console.log(`File '${filePath}' not found. Creating new file.`);
+}
 
 module.exports = {
   set(key, value) {
