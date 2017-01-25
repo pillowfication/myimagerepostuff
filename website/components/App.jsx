@@ -2,6 +2,8 @@ import React from 'react';
 import request from 'superagent';
 import Dump from './Dump.jsx';
 
+import 'pf-konami'; // (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+
 const App = React.createClass({
   getInitialState() {
     return {
