@@ -168,11 +168,11 @@ function AAAAAAA(result) {
   if (!tracked) {
     console.log('UNKNOWN THINGGY');
     console.log(JSON.stringify(result));
-  }
-  for (field in result.data)
-    if (!tracked.includes(field)) {
-      console.log('UNKNOWN THINGGY');
-      console.log(JSON.stringify(result));
-      return;
-    }
+  } else
+    for (field in result.data)
+      if (!tracked.includes(field)) {
+        console.log('UNKNOWN THINGGY');
+        console.log(JSON.stringify(result));
+        return;
+      }
 }
